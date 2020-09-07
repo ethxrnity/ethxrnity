@@ -1,5 +1,4 @@
 <p align="center">
- <img width="200px" src="https://ethxrnity.codes/assets/images/favicon.png" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
