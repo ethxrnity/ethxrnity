@@ -4,13 +4,13 @@
 
 ### Hi there 👋 I am [ethxrnity](https://ethxrnity.codes)
 
-<a href="https://www.linkedin.com/in/apurv-shah/">
+<a href="https://discord.bio/p/ethxrnity">
   <img align="left" alt="ethxrnity's Discord" width="22px" src="https://upload.hicoria.com/files/w6RZKFMj.svg" />
 </a>
-<a href="https://leetcode.com/apurvshah123/">
+<a href="https://ethxrnity.codes/">
   <img align="left" alt="ethxrnity's Website" width="22px" src="https://upload.hicoria.com/files/HAf7Bc66.svg" />
 </a>
-<a href="https://medium.com/@apurvshah2604">
+<a href="https://twitter.com/Ethxrnity">
   <img align="left" alt="ethxrnity's Twitter" width="22px" src="https://upload.hicoria.com/files/NJ3jGTmR.svg"/>
 </a>
 
