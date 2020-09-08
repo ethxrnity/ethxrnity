@@ -21,7 +21,6 @@
 <div><p>The projects I am currently working on: </p></div>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ethxrnity&repo=Status-Page)](https://github.com/ethxrnity/Status-Page)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ethxrnity&repo=Mana)](https://github.com/ethxrnity/Mana)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ethxrnity&repo=ethxrnity.codes)](https://github.com/ethxrnity/ethxrnity.codes)
 
 <br />
