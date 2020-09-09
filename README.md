@@ -29,7 +29,7 @@
 <div><p>My profile overview: </p></div>
 
 ![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ethxrnity&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethxrnity&layout=compact)](https://github.com/ethxrnity/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethxrnity&hide=javascript,html)](https://github.com/ethxrnity/github-readme-stats)
 <br />
 <br />
 
