@@ -30,6 +30,8 @@
 
 ![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ethxrnity&show_icons=true)
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethxrnity&layout=compact)](https://github.com/ethxrnity/github-readme-stats)
 <br />
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ethxrnity.ethxrnity)
