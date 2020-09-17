@@ -22,6 +22,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ethxrnity&repo=Status-Page)](https://github.com/ethxrnity/Status-Page)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ethxrnity&repo=ethxrnity.codes)](https://github.com/ethxrnity/ethxrnity.codes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ethxrnity&repo=HostNow)](https://github.com/ethxrnity/HostNow)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ethxrnity&repo=Mana)](https://github.com/ethxrnity/Mana)
 
 <br />
