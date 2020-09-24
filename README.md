@@ -36,5 +36,5 @@
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ethxrnity.ethxrnity)
  <a href="https://discord.gg/eWmQHVm">
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+        <img src="https://img.shields.io/discord/683622171410694145?logo=discord"
             alt="Visit HostNow Discord"></a>
