@@ -16,11 +16,6 @@
 
 <br />
 <br />
-
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-nine.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/j71gt17kr0tgzwi6ynlt3tvytq)
-
 <br />
 
 <div><p>The projects I am currently working on: </p></div>
