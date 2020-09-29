@@ -19,7 +19,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-nine.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/jgrzjto24ppwxdip5utqz6psv?si=K6_sZXqdTcOCGfs9GF9hOQ)
+[<img src="https://spotify-now-playing-nine.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/j71gt17kr0tgzwi6ynlt3tvytq)
 
 <br />
 
